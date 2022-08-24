@@ -1,5 +1,4 @@
-![codespaces-vscode-2](https://user-images.githubusercontent.com/58683199/186287367-defc15b7-6497-484d-ab8e-90b0e57b53be.png)
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
 
 # Project Title
 
@@ -26,6 +25,9 @@ A brief description of what this project does and who it's for
 | `api_key` | `string` | **Required**. Your API key |
 
 #### Get item
+![codespaces-vscode-2](https://user-images.githubusercontent.com/58683199/186287367-defc15b7-6497-484d-ab8e-90b0e57b53be.png)
+![Image20220824033344](https://user-images.githubusercontent.com/58683199/186287440-f281d075-3e7b-4d1c-9621-f0ac2cd62579.png)
+
 
 ```http
   GET /api/items/${id}
