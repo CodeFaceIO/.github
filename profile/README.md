@@ -2,6 +2,10 @@
 
 # CODEWARS BEGIN WITH A NEW LEVEL 2022!
 
+![image](https://user-images.githubusercontent.com/58683199/189259636-36a21569-310f-4581-a387-da5f9ad67566.png)
+
+
+
 ![Image20220824033344](https://user-images.githubusercontent.com/58683199/186287440-f281d075-3e7b-4d1c-9621-f0ac2cd62579.png)
 
 A brief description of what this project does and who it's for
